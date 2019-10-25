@@ -21,6 +21,9 @@ or
 mvn -Pweld clean install
 ```
 
+The tests works with Java 8 with all 3 implementations and OpenWebBeans and Weld
+are working with all current Java versions:
+
 |                    | Java 8 | Java 9 | Java 10 | Java 11 | Java 12 | Java 13 |
 |--------------------|--------|--------|---------|---------|---------|---------|
 | OpenEJB 7.0.2      |    ✓   |        |         |         |         |         |
