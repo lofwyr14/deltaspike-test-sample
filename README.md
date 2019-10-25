@@ -4,6 +4,8 @@ It tests beans which are
 @RequestScoped, 
 @SessionScoped or
 @WindowScoped. 
+The setup based on the documentation from 
+[DeltaSpike](https://deltaspike.apache.org/documentation/test-control.html).
 
 
 Run the test with OpenEJB, OpenWebBeans or Weld:
